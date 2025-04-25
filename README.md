@@ -1,1 +1,1 @@
-# zama1nmk
+# zama1nmkAPI endpoint documentation
