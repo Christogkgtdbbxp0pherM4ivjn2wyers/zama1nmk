@@ -5,3 +5,4 @@ refactor: Update product API documentation with new response fields
 docs: Add examples for the /orders endpoint
 fix: Correct the description for the /cart/items endpoint
 feat: Document new filtering parameters for the search API
+docs: Clarify rate limiting policies in the API documentation
