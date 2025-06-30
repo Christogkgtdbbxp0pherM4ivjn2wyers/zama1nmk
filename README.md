@@ -8,3 +8,4 @@ feat: Document new filtering parameters for the search API
 docs: Clarify rate limiting policies in the API documentation
 refactor: Restructure API documentation for better readability
 docs: Add documentation for webhook endpoints and event types
+fix: Update deprecated /user/profile endpoint documentation
